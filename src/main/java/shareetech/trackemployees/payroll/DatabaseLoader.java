@@ -1,10 +1,9 @@
-package shareetech.trackemployees.components;
+package shareetech.trackemployees.payroll;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
-import shareetech.trackemployees.models.Employee;
-import shareetech.trackemployees.models.data.EmployeeRepository;
+
 
 @Component
 public class DatabaseLoader implements CommandLineRunner {

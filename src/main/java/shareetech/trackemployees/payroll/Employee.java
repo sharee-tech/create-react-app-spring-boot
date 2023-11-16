@@ -1,4 +1,4 @@
-package shareetech.trackemployees.models;
+package shareetech.trackemployees.payroll;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
